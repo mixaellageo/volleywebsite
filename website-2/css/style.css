@@ -1,0 +1,64 @@
+.parena {
+	max-width: 60%;
+	font-size: 175%;
+	height: 100%;
+	margin-left: 3%;
+	border-style: solid;
+	background-color: white;
+	width:fit-content;
+}
+
+h1 {
+	color: red;
+	text-align: center;
+	font-size: 300%;
+	background-color: white;
+	width:fit-content;
+	margin: 0 auto;
+
+}
+.fotoena{ 
+		margin-right: 20%;
+}
+h2 {
+	margin-left: 6%;
+	color: red;
+	font-size: 170%;
+}
+ul {
+	margin-left: 3%;
+	font-size: 150%;
+}
+p {
+	max-width: 70%;
+	font-size: 160%;
+	height: 100%;
+	margin-left: 6%;
+	border-style: solid;
+	background-color: white;
+	width:fit-content;
+}
+h3{
+	max-width: 30%;
+	font-size: 175%;
+	height: 80%;
+	margin-left: 6%;
+	color: red;
+	text-decoration: underline; color: red;
+	margin-bottom: 5%;
+}
+button{
+	color: darkblue;
+	cursor: pointer;
+	align-content: right;
+	border: none;
+	float: right;
+	font-size: 120%;
+    padding: 1% 2%;
+    margin: 3%;
+}
+.fotodyo{
+	display: flex;
+    align-items: center;
+    gap: 5%
+}
