@@ -1,0 +1,33 @@
+.parena {
+	max-width: 30%;
+	font-size: 25px;
+	height: 30%;
+	margin-left: 3%;
+}
+
+h1 {
+	color: red;
+	text-align: center;
+	font-size: 45px;
+	background-color: white;
+	width:fit-content;
+	margin: 0 auto;
+
+}
+.fotoena{ 
+		margin-right: 30%;
+}
+h2 {
+	margin-left: 3%;
+	color: red;
+}
+ul {
+	margin-left: 3%;
+	font-size: 20px;
+}
+p {
+	border-style: solid;
+	background-color: white;
+	width:fit-content;
+	margin: 0 auto;
+}
